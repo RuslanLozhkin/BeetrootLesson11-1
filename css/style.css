@@ -57,7 +57,7 @@ nav ul li a{
     text-decoration: none;
     border-top: 3px solid transparent;
 }
-nav>ul>li>a:active{
+nav>ul>li>a:hover{
     border-top: 3px solid #ff6033;
 }
 nav ul li:last-child{
